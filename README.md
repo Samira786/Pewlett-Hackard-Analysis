@@ -14,3 +14,7 @@ pgAdmin4
 ### Number of employees retiring
 
 ![retiring](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/retiring%20employees.png)
+
+### Count Query
+
+![count](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/count%20query.png)
