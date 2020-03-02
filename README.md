@@ -18,3 +18,9 @@ pgAdmin4
 ### Count Query
 
 ![count](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/count%20query.png)
+
+### Mentors
+
+![mentor](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/mentor.png)
+
+
