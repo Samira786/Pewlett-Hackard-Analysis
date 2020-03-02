@@ -29,4 +29,8 @@ Considering the birth date needs to be between January 1, 1965 and December 31, 
 
 ![mentor](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/mentor.png)
 
+### Conclusion
+
+By using SQL, multiple tables were combined to help plan for the future for Pewlett Hackard.
+
 
