@@ -7,6 +7,10 @@ Pewlett Hackard, is a  large company hosting several thousands of employees, to 
 QuickDBD; 
 pgAdmin4
 
+### Image of ERD from Quick DBD
+
+![erd]()
+
 ### Number of employees retiring
 
 ![retiring](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/retiring%20employees.png)
