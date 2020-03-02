@@ -9,7 +9,7 @@ pgAdmin4
 
 ### Image of ERD from Quick DBD
 
-![erd]()
+![erd](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/QuickDBD-export%20.png)
 
 ### Number of employees retiring
 
