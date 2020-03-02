@@ -13,7 +13,9 @@ pgAdmin4
 
 ### Number of employees retiring
 
-![retiring](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/retiring%20employees.png)
+A retirement_title query was created to combine three tables (employee, salaries, and title) using INNER JOIN. This created a chart to show employee information into a table.
+
+![retiring](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/retiree%20list.png)
 
 ### Count Query
 
