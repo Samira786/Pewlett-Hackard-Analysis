@@ -23,6 +23,10 @@ A retirement_title query was created to combine three tables (employee, salaries
 
 ### Mentors
 
+A mentor table was created combining two tables with the following information: Employee number, First and last name, Title, from_date and to_date.
+
+Considering the birth date needs to be between January 1, 1965 and December 31, 1965.
+
 ![mentor](https://github.com/Samira786/Pewlett-Hackard-Analysis/blob/master/mentor.png)
 
 
